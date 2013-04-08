@@ -1,5 +1,5 @@
 ---
--- Copyright (c) 2003, Zhiqiang Lan (Lindowx). All rights reserved.
+-- Copyright (c) 2013, Zhiqiang Lan (Lindowx). All rights reserved.
 --
 -- This program is free software; you can redistribute it and/or modify
 -- it under the terms of the GNU General Public License. You should have
