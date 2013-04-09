@@ -1,0 +1,29 @@
+# Compiled Object files
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.la
+*.a
+
+# Compiled misc
+*.dep
+*.gcda
+*.gcno
+*.gcov
+
+# Packages
+*.tar.gz
+*.tar.bz2
+
+# Logs
+*.log
+
+# Temporary
+*.swp
+*.~
+*.project
+*.cproject
