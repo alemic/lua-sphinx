@@ -1,4 +1,4 @@
-resty-sphinx
+lua-sphinx(FFI binding)
 ============
 
 sphinx lua client
